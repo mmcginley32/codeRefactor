@@ -27,7 +27,7 @@ body {
 .header div {
     padding-top: 15px;
     margin-right: 20px;
-    float: left;
+    float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 20px;
 }
@@ -141,7 +141,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    float: left;
+    float: right;
 }
 
 .online-reputation-management {
@@ -151,7 +151,7 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    float: left;
+    float: right;
 }
 
 .social-media-marketing {
@@ -161,8 +161,8 @@ p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
     color: #ffffff;
-    float: left;
-}
+    float: right;
+} 
 
 .search-engine-optimization img {
     max-height: 200px;
